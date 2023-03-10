@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="logo.png">images/logo.png</file>
+        <file alias="logo.icns">logo.icns</file>        
+        <file alias="digitalocean_logo.svg">images/digitalocean_logo.svg</file>
+        <file alias="aws_logo.svg">images/aws_logo.svg</file>
+        <file alias="aws_logo_white.svg">images/aws_logo_white.svg</file>
+        <file alias="azure_logo.svg">images/azure_logo.svg</file>
+        <file alias="heroku_logo.svg">images/heroku_logo.svg</file>
+    </qresource>
+</RCC>

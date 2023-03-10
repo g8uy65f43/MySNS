@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=RESP.app
+Comment=Developer GUI for Redis
+Type=Application
+Categories=Development;
+Exec=/opt/resp_app/resp
+Terminal=false
+StartupNotify=true
+Icon=resp
+Keywords=RDM;Redis;

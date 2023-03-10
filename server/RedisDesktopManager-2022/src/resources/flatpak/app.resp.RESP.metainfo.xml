@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+    <id>app.resp.RESP</id>
+    <metadata_license>CC0-1.0</metadata_license>
+    <project_license>GPL-3.0-only</project_license>
+    <name>RESP.app - GUI for Redis ®</name>
+    <summary>Cross-platform open source database management tool for Redis ®</summary>
+    <description>
+        <p>RESP (formerly RedisDesktopManager) — is a fast open source Redis ® database management application for Windows, Linux and MacOS.
+            This tool offers you an easy-to-use GUI to access your Redis ® DB and perform some basic operations: view keys as a tree, CRUD keys, execute commands via shell.
+            RESP supports SSL/TLS encryption, SSH tunnels and cloud Redis instances, such as: Amazon ElastiCache, Microsoft Azure Redis Cache and other Redis ® clouds.</p>
+    </description>
+    <url type="homepage">https://resp.app/</url>
+    <launchable type="desktop-id">app.resp.RESP.desktop</launchable>
+    <screenshots>
+        <screenshot type="default">
+            <image type="source">https://resp.app/static/img/features/all.png?v=20202</image>
+        </screenshot>
+    </screenshots>
+    <content_rating type="oars-1.0"/>
+    <releases>
+	<release version="2022.4.2" date="2022-07-28"/>    
+        <release version="2022.4" date="2022-06-15"/>
+        <release version="2022.3" date="2022-05-04"/>
+        <release version="2022.2.1" date="2022-04-11"/>
+        <release version="2022.2" date="2022-02-23"/>
+        <release version="2022.1.1" date="2022-02-18"/>
+        <release version="2022.0" date="2022-02-15"/>
+        <release version="2021.10.2" date="2021-12-28"/>
+        <release version="2021.9" date="2021-11-30"/>
+        <release version="2021.8" date="2021-10-26"/>
+        <release version="2021.7" date="2021-07-16"/>
+    </releases>
+</component>

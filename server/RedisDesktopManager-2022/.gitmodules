@@ -1,0 +1,24 @@
+[submodule "3rdparty/qredisclient"]
+	path = 3rdparty/qredisclient
+	url = https://github.com/uglide/qredisclient.git
+[submodule "3rdparty/pyotherside"]
+	path = 3rdparty/pyotherside
+	url = https://github.com/uglide/pyotherside.git
+[submodule "3rdparty/lz4"]
+	path = 3rdparty/lz4
+	url = https://github.com/lz4/lz4.git
+[submodule "3rdparty/simdjson"]
+	path = 3rdparty/simdjson
+	url = https://github.com/simdjson/simdjson.git
+[submodule "3rdparty/zstd"]
+	path = 3rdparty/zstd
+	url = https://github.com/facebook/zstd.git
+[submodule "3rdparty/snappy"]
+	path = 3rdparty/snappy
+	url = https://github.com/google/snappy.git
+[submodule "3rdparty/brotli"]
+	path = 3rdparty/brotli
+	url = https://github.com/google/brotli.git
+[submodule "3rdparty/fakeit"]
+	path = 3rdparty/fakeit
+	url = https://github.com/eranpeer/FakeIt.git
